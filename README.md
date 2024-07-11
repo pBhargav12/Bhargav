@@ -1,2 +1,2 @@
-# Bhargav
-My website is my self introduction
+# BhargavWeb
+My website is my self-introduction
